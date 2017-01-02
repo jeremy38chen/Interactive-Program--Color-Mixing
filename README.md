@@ -1,1 +1,2 @@
 # Interactive-Program--Color-Mixing
+The purpose of this project is to create a shiny light which is controlled by a pad made of three photoresists. The sparkling light I product is similar to the bulb which used to decorate at festival. However, the project I made can change in various way which is all depending on ourself. This is the most difference from the normal bulb. 
